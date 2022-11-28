@@ -13,3 +13,10 @@ Staging area is an intermediate place where you can pick and choose which files 
 git status command is used to see which files are inside your stagin area.
 
 To add files to your staging area and to track changes in it, you can use the command "git add"
+
+git commit -m "this message is to tell what changes have been made"
+
+....
+
+git add works for a few files but if there are quie a few files, then it helps to use
+git add .     this command adds all the files to the staging area and then you can commit.
