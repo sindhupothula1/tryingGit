@@ -1,0 +1,15 @@
+echo "text content here" > fileName.txt
+
+
+
+
+git init to initiate
+
+learnng how to create a git local repository
+
+git status, to see what files are being tracked in the staging area.
+
+Staging area is an intermediate place where you can pick and choose which files inside your working directoryy you want to commit.
+git status command is used to see which files are inside your stagin area.
+
+To add files to your staging area and to track changes in it, you can use the command "git add"
