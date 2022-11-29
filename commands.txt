@@ -20,3 +20,18 @@ git commit -m "this message is to tell what changes have been made"
 
 git add works for a few files but if there are quie a few files, then it helps to use
 git add .     this command adds all the files to the staging area and then you can commit.
+
+..........
+
+checking if this gets added to the staging area because it is modified.
+-----------
+
+also a command to see wht are the differences between the current version of the file and the last save point.
+that is 
+
+git diff fileName.extnsn
+
+------
+git checkout command will rollback the file to the last version of the file that ahas been last committed to the local repository
+
+------will try git checkout to see if this line gets removed. try 
