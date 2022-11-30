@@ -35,27 +35,3 @@ git diff fileName.extnsn
 git checkout command will rollback the file to the last version of the file that ahas been last committed to the local repository
 
 ------will try git checkout to see if this line gets removed. try 
-
-
-----------------------
-
-creating remote repository
-
-----
-
-go to github iin browser and clickonn new repository, add a name and description....
-copy the given link of the newly created repository.
-
-
-inside the command line 
-
-git remote add origin paste_link_here (this command does what?)
-git push -u origin master (this command pushes all the commits in your curretn local repository to your remote repository)
-
-----------------
-
-
-git ignore
-
-
-
